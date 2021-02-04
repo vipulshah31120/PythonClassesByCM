@@ -11,7 +11,6 @@ def say_hello():
 def say_hi(name):
     print("hi", name)
 
-
 # default paramter function
 def defaul_hi(name = "not found"):
     print("hi",name)
