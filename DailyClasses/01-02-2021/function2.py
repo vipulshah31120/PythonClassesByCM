@@ -1,5 +1,5 @@
-# A function is a block of organized, reusable code that is used to perform a single, related action.
-# which returns a value or does not return a value.
+# A function is a block of organized, reusable code that is used to perform a single,
+#  related action, which returns a value or does not return a value.
 
 
 # function definition

@@ -7,7 +7,7 @@ print(fruits)
 
 print(fruits.index('kiwi'))
 
-print(fruits.index('apple', 2))  # Find next apple starting a position 2
+print(fruits.index('apple', 2))  # Find next apple starting at position 2
 
 fruits.sort()
 print(fruits)

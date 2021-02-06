@@ -5,8 +5,8 @@
 family = ["Pita Ji","Mata Ji","Bhrata Ji","Behan Ji","Dada Ji","Dadi Ji","Me","and 4 others"]
 print(family)
 
-# there many function for list
-# append(), extend()
+# there many function for list:
+# append(), extend(), insert(), remove(), pop(), clear(), index(), count(), sort(), reverse(), copy().
 
 # Using Lists as Stacks
 family.append("pahli wali")

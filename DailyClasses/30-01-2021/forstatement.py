@@ -11,7 +11,7 @@ print(list)
 # for with slice of list
 for i in list[2:] :
     print(i)
-    print("hihihi")
+    print("hihihi")  #it is in for loop so after every digit 'hihihi' will get printed
     
 
 # for with string

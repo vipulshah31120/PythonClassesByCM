@@ -3,7 +3,7 @@
 name = input("What's your name?")
 print("hello", name)
 
-# input function always retruns a string
+# input function always returns a string
 # how we can take an input for number/ integer
 # to get an integer we need to parse it into int with help of int()
 
