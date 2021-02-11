@@ -4,6 +4,7 @@
 
 import module2 as m2
 import module3 as m3
+import prime_checker as m4
 print(__name__)
 
 LIMIT = 100
@@ -29,3 +30,6 @@ print(answer)
 
 squares = m3.square(4)
 print(squares)
+
+prime = m4.isprime(7)
+print(prime)
