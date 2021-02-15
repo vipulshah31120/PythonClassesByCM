@@ -1,6 +1,5 @@
-
 def after10year(age):
-    return age + 10
+    return age + 10             #tradional method
 
 vipulAge = after10year(20)
 print(vipulAge)
@@ -8,7 +7,7 @@ print(vipulAge)
 cmAge = after10year(12)
 print(cmAge)
 
-abc = lambda age : age + 10
+abc = lambda age : age + 10     #Using lambda function
 
 vipulGf = abc(20)
 print(vipulGf)

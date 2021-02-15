@@ -1,4 +1,4 @@
-list = [2,4,6,8,10,12]
+list = [2,4,4,6,8,10,12]
 
 # iterating elements of list with for
 # in is reserved keyword
@@ -15,6 +15,6 @@ for i in list[2:] :
     
 
 # for with string
-for i in "Vipul" :
+for i in " V i p u l " :
     print(i)
 
