@@ -1,6 +1,6 @@
 
 # we can define a datatype of a variable
-name : str = "Vipul"
+name : str = "Vipul \n"
 age : int = 20
 
 print(name, age)
