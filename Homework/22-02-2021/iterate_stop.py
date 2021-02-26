@@ -18,4 +18,3 @@ itr1 = iter(n1)
 for x in itr1 :
 	print(x)
 
-		
