@@ -4,14 +4,12 @@ class Vehicle :
 		self.loadCap = loadCap
 
 	def show(self) :
-		print("No. of Tyres: ", self.nTyres)
-		print("Load Capacity: ", self.loadCap)
+		print("No. of Tyres : ", self.nTyres)
+		print("Load Capacity : ", self.loadCap)
 
-v1 = Vehicle(5, "10 Ton" )
-print(v1.nTyres)
-print(v1.loadCap)
-
+v1 = Vehicle(5, "20 TON")
 v1.show()
+
 
 
 class Car(Vehicle) :
@@ -38,3 +36,11 @@ class Bike(Vehicle) :
 b1 = Bike(9, "25 Ton", "Sports")
 b1.show()
 b1.showtype()
+
+class Complex :
+	def __init__(self, imagpart, realpart) :
+		self.i = imagpart
+		self.r = realpart
+
+x1 = Complex(3.6, -8.7)
+print(x1.r, x1.i)

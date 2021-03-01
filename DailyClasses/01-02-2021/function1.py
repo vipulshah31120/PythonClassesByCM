@@ -18,8 +18,10 @@ doSomethingByDefault(age=24)
 
 # interest calculation
 
-def a(p, t, r=10) :
+def a(p, t, r=10) :			   # a is name of the function
     return p * r * t / 100;    # we use return so that we don't have to call the method.
 
 print(a(10000, 2))
-print(a(p=10000, r=12, t=2)) # kwarg=value keyword argument
+print(a(p=10000, r=12, t=2))	 # kwarg=value keyword argument
+
+
