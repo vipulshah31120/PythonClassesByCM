@@ -2,7 +2,7 @@ import re
 import camelcase
 
 a = "I can do this."
-x = re.search("^I.*this.$", a)	#
+x = re.search("^I.*this.$", a)	
 
 if x :
 	print("Matched")
