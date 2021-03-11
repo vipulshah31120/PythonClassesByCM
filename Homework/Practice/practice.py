@@ -159,3 +159,58 @@ print(v4)
 v5 = re.sub("\s","SO", v)
 print(v5)
 
+
+a = 6
+b = 2
+
+try :
+	print(a/b)
+
+except Exception as e :
+	print("You cannot divide a number by Zero", e)
+
+finally :
+	print("Bye")
+
+
+
+x = 8
+y = 2 #0
+
+try :
+	print("Division started")
+	print(x/y)
+	#print("Division ended")
+
+except Exception as e :
+	print("Don't devide it by 0", e)
+
+finally :				# No matter error is occured or not finally will be executed
+	print("Division Ended")
+
+
+
+
+c = 8
+d = 2 #0
+
+try :
+	print("Division started")
+	print(c/d)
+	#print("Division ended")
+	k = int(input("Enter a number: "))
+	print(k)
+
+except ZeroDivisionError as e :
+	print("Don't devide it by 0", e)
+
+except ValueError as e :
+	print("You should enter a string literal")
+
+except Exception as e :
+	print("Unknown Error")
+
+finally :				# No matter error is occured or not finally will be executed
+	print("Division Ended")
+
+

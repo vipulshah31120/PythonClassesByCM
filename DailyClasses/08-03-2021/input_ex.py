@@ -3,6 +3,8 @@ print("Hello",name)
 
 age = int(input("Enter your age: "))
 #print(type(age))
+
+
 try : 
 	if age<18 : 
 		raise Exception("Red Alert")
