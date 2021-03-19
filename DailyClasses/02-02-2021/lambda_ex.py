@@ -14,6 +14,6 @@ print(vipulGf)
 
 
 # we can pass multiple params as well in lambda expression
-sum = lambda a, b : a + b
+sum = lambda a, b : a + b 
 
 print(sum(1,2))

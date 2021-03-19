@@ -14,3 +14,5 @@ def fun(name : str, age : int = 18):
     else : 
         print('not eligible')
 fun('cm', 12)
+
+
