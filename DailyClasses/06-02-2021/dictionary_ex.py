@@ -1,4 +1,4 @@
-# It is best to think of a dictionary as a set of key: value pairs, with the requirement that the keys are unique (within one dictionary).
+# It is best to think of a dictionary as a set of  {key : value pairs} , with the requirement that the keys are unique (within one dictionary).
 
 
 person = {'first_name':'Vipul', 'last_name':'Shah', 'age':24, 'status':'single'}

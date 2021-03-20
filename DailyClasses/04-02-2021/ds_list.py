@@ -44,3 +44,11 @@ x, y, z = fruits
 print(x)	# apple
 print(y)	# banana
 print(z)	# cherry
+
+x = family.count("Me")
+print(x)
+
+family.reverse()
+print(family
+
+
