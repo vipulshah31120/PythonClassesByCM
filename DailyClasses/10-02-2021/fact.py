@@ -4,4 +4,4 @@ def fact(x) :
         print(i, x)
     return x
 
-print(fact(5))
+print(fact(6))

@@ -19,7 +19,7 @@ except :
 try :
 	print(x)
 except NameError:
-	print("x is not deined.")
+	print("x is not defined.")
 except :
 	print("Something else went wrong.")
 

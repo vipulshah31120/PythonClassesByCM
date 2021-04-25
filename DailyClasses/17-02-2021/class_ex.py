@@ -20,9 +20,9 @@ print(student1.age)
 # all built-in functions starts with double underscore -> __
 
 class Employee:
-	name = "Vipul" 		#it's an variable of class
+	name = "Vipul" 			#it's a variable of class
 	def __init__(self, n):
-		self.name = name 	#it is an variable of object
+		self.name = name 	#it is a variable of object
 
 
 emp1 = Employee("CMPundhir")

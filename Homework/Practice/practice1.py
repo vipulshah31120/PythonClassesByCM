@@ -12,3 +12,6 @@ from functools import reduce
 sum1 = reduce(lambda a,b : a+b, doubles)
 print(sum1) 
 
+
+
+

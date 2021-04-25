@@ -49,6 +49,4 @@ x = family.count("Me")
 print(x)
 
 family.reverse()
-print(family
-
-
+print(family)
