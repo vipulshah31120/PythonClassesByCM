@@ -15,5 +15,3 @@ if not os.path.exists('video.mp4') :
 copyFile = open('video.mp4', 'wb')
 copyFile.write(videoFile.read())
 copyFile.close()
-
-

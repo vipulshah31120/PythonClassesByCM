@@ -8,7 +8,7 @@ places['sweden']=11     #it will be added in last
 print(places)
 
 print(list(places))
-print(sorted(places))   #print letter wise
+print(sorted(places))   #print Alphabet wise
 
 print('london' in places)
 print('viana' in places)

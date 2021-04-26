@@ -65,16 +65,3 @@ print(next(itr4))
 print(next(itr4))
 print(next(itr4))
 print(next(itr4))
-
-
-
-
-
-
-
-
-
-
-
-
-
